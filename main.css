@@ -1,0 +1,14 @@
+
+#text{
+  float: right;
+  width: 100%;
+
+}
+
+}
+@media (max-width: 480px) {
+  #text{
+  float: right;
+  width: 100%;
+  }
+}
